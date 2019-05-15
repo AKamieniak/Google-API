@@ -37,3 +37,5 @@ Step by step
 ![1](https://user-images.githubusercontent.com/30668073/57763824-836b5480-7702-11e9-8a64-6ce26f0452ea.PNG)
 
 # Done!
+
+# Methods: Read, Write, Update, Delete
