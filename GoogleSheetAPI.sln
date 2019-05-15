@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleSheetAPI", "GoogleSheetAPI\GoogleSheetAPI.csproj", "{21C3DCEF-2E7A-42BC-8DC7-895CBA549EA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C3DCEF-2E7A-42BC-8DC7-895CBA549EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C3DCEF-2E7A-42BC-8DC7-895CBA549EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C3DCEF-2E7A-42BC-8DC7-895CBA549EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C3DCEF-2E7A-42BC-8DC7-895CBA549EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4D779FA-29E7-471C-8E7B-A21085E5CD28}
+	EndGlobalSection
+EndGlobal

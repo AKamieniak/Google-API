@@ -1,0 +1,11 @@
+C:\Users\alkami\source\repos\GoogleSheetAPI\GoogleSheetAPI\bin\Debug\netcoreapp2.2\GoogleSheetAPI.deps.json
+C:\Users\alkami\source\repos\GoogleSheetAPI\GoogleSheetAPI\bin\Debug\netcoreapp2.2\GoogleSheetAPI.runtimeconfig.json
+C:\Users\alkami\source\repos\GoogleSheetAPI\GoogleSheetAPI\bin\Debug\netcoreapp2.2\GoogleSheetAPI.runtimeconfig.dev.json
+C:\Users\alkami\source\repos\GoogleSheetAPI\GoogleSheetAPI\bin\Debug\netcoreapp2.2\GoogleSheetAPI.dll
+C:\Users\alkami\source\repos\GoogleSheetAPI\GoogleSheetAPI\obj\Debug\netcoreapp2.2\GoogleSheetAPI.csprojAssemblyReference.cache
+C:\Users\alkami\source\repos\GoogleSheetAPI\GoogleSheetAPI\obj\Debug\netcoreapp2.2\GoogleSheetAPI.csproj.CoreCompileInputs.cache
+C:\Users\alkami\source\repos\GoogleSheetAPI\GoogleSheetAPI\obj\Debug\netcoreapp2.2\GoogleSheetAPI.AssemblyInfoInputs.cache
+C:\Users\alkami\source\repos\GoogleSheetAPI\GoogleSheetAPI\obj\Debug\netcoreapp2.2\GoogleSheetAPI.AssemblyInfo.cs
+C:\Users\alkami\source\repos\GoogleSheetAPI\GoogleSheetAPI\bin\Debug\netcoreapp2.2\GoogleSheetAPI.pdb
+C:\Users\alkami\source\repos\GoogleSheetAPI\GoogleSheetAPI\obj\Debug\netcoreapp2.2\GoogleSheetAPI.dll
+C:\Users\alkami\source\repos\GoogleSheetAPI\GoogleSheetAPI\obj\Debug\netcoreapp2.2\GoogleSheetAPI.pdb
