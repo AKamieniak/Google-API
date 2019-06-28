@@ -1,4 +1,4 @@
-# GoogleAPI
+# Google API
 ## Step by step
 
 ### 1. Go to https://console.developers.google.com
